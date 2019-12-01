@@ -1,0 +1,14 @@
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\bin\Debug\netstandard2.0\MoneyManage.deps.json
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\bin\Debug\netstandard2.0\MoneyManage.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\bin\Debug\netstandard2.0\MoneyManage.pdb
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\Views\AccountCreation.xaml.g.cs
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.AssemblyInfoInputs.cache
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.AssemblyInfo.cs
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.pdb
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\Views\MainLogin.xaml.g.cs
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\MoneyManage.csprojAssemblyReference.cache
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs

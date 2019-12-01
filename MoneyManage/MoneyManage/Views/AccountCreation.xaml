@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MoneyManage.Views.AccountCreation">
+    <ContentPage.Content>
+        <StackLayout 
+            HorizontalOptions="CenterAndExpand" 
+            VerticalOptions="CenterAndExpand">
+            <Label Text="Some Logo here"/>
+            <Label Text="Create a pin for continue"/>
+            <StackLayout Margin="10">
+                <Entry Placeholder="Enter Pin" Keyboard="Numeric" IsPassword="True" x:Name="txtEnterPin"/>
+                <Entry Placeholder="Confirm Pin" Keyboard="Numeric" IsPassword="True" x:Name="txtConfirmPin"/>
+                <Entry Placeholder="Hint (Optional)" Keyboard="Text" x:Name="txtHint"/>
+            </StackLayout>
+            <Button Text="Save" Clicked="BtnSave_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
