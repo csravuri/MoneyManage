@@ -18,11 +18,11 @@ namespace MoneyManage.Views
         }
 
         
-        private void BtnSave_Clicked(object sender, EventArgs e)
+        private async void BtnSave_Clicked(object sender, EventArgs e)
         {
             Application.Current.Properties["PIN"] = this.txtEnterPin.Text;
 
-            App.Current.MainPage = new Home();
+            await Navigation.PushAsync(new Home());
         }
 
         

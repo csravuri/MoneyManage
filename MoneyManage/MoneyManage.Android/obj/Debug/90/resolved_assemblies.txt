@@ -4,6 +4,12 @@ D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\MoneyManage.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\Mono.Android.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\mscorlib.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLite-net.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Core.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -66,4 +72,14 @@ D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Collections.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Reflection.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Linq.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Threading.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\System.Globalization.dll
 D:\Applications\xamarin\MoneyManage\MoneyManage\MoneyManage.Android\obj\Debug\90\android\assets\Mono.Security.dll

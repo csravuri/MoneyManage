@@ -15,7 +15,7 @@
                 <Entry Placeholder="Enter Pin" Keyboard="Numeric" IsPassword="True"/>
                 <Label Text="Show Hint"/>
             </StackLayout>
-            <Button Text="Login" x:Name="btnLogin"/>
+            <Button Text="Login" x:Name="btnLogin" Clicked="BtnLogin_Clicked"/>
 
         </StackLayout>
     </ContentPage.Content>

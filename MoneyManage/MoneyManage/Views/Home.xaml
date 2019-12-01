@@ -18,10 +18,10 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>                    
                 </Grid.ColumnDefinitions>
-                <Button Text="Add Person/Unit" Grid.Row="0" Grid.Column="0"/>
+                <Button Text="Add Person/Unit" Grid.Row="0" Grid.Column="0" Clicked="AddPerson_Clicked"/>
                 <Button Text="Transactions" Grid.Row="0" Grid.Column="1"/>
                 <Button Text="Reports" Grid.Row="1" Grid.Column="0"/>
-                <Button Text="Clear" Grid.Row="1" Grid.Column="1" TextColor ="Red"/>
+                <Button Text="Clear" Grid.Row="1" Grid.Column="1" TextColor ="Red" x:Name="btnClear" Clicked="BtnClear_Clicked"/>
             </Grid>
             
         </StackLayout>

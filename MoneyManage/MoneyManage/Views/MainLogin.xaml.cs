@@ -15,14 +15,12 @@ namespace MoneyManage.Views
         public MainLogin()
         {
             InitializeComponent();
-            try
-            {
-                this.btnLogin.Text = Application.Current.Properties["PIN"].ToString();
-            }
-            catch(Exception e)
-            {
-                this.btnLogin.Text = e.Message;
-            }
+            
+        }
+
+        private async void BtnLogin_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Home());
         }
     }
 }

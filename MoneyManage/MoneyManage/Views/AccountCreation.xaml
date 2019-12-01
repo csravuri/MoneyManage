@@ -16,7 +16,7 @@
                 <Entry Placeholder="Confirm Pin" Keyboard="Numeric" IsPassword="True" x:Name="txtConfirmPin"/>
                 <Entry Placeholder="Hint (Optional)" Keyboard="Text" x:Name="txtHint"/>
             </StackLayout>
-            <Button Text="Save" Clicked="BtnSave_Clicked"/>
+            <Button Text="Create" Clicked="BtnSave_Clicked"/>
 
         </StackLayout>
     </ContentPage.Content>

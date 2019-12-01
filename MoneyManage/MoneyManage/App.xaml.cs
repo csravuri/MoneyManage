@@ -35,11 +35,11 @@ namespace MoneyManage
         {
             if (Application.Current.Properties.ContainsKey("PIN") && Application.Current.Properties["PIN"] != null)
             {
-                MainPage = new MainLogin();
+                MainPage = new NavigationPage(new MainLogin());
             }
             else
             {
-                MainPage = new AccountCreation();
+                MainPage = new NavigationPage(new AccountCreation());
             }
         }
 
